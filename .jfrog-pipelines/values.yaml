@@ -4,6 +4,6 @@ var:
   gitProvider: test
   path: shweta068/pipelines-devnext
   branches: main
-  artifactory: hk_artifactory_1
+  artifactory: artifactory
   dockerRepoName: cpe-docker-local-devnext
   jfrogPlatformInstance: devnextsaas1.jfrog.io
